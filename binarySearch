@@ -10,7 +10,7 @@ public class binarySearch
 		{
 			a[i]=s.nextInt();
 		}
-		System.out.println("Enter element to search");
+		//System.out.println("Enter element to search");
 		int z=s.nextInt();
 		int q=0;
 		int st=0,end=n-1;
